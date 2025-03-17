@@ -18,8 +18,8 @@ int pilihan, index;
 int main() {
     system("cls");
     string username, password;
-    string id = "1";
-    string pass = "1";
+    string id = "MuhammadIlmaYusrianFahmi";
+    string pass = "2409106079";
     int login = 3;
 
     string tableHeader = 
